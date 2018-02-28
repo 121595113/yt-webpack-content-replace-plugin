@@ -1,0 +1,25 @@
+{
+  "name": "yt-webpack-content-replace-plugin",
+  "version": "1.0.0",
+  "description": "webpack plugin: Replace content in build file in webpack workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/121595113/yt-webpack-content-replace-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "string replace",
+    "content replace",
+    "webpack plugin",
+    "yt plugin",
+    "str replace"
+  ],
+  "author": "Rain.xia",
+  "homepage": "https://github.com/121595113/yt-webpack-content-replace-plugin#readme",
+  "license": "ISC"
+}
